@@ -2,12 +2,11 @@
 
 [![Resume](https://img.shields.io/badge/Resume-black?style=flat-square)](https://drive.google.com/your-resume-link)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/junaidSayani1)
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=flat-square)](https://your-portfolio-link.com)
 [![Email](https://img.shields.io/badge/Email-black?style=flat-square&logo=gmail)](mailto:junaidsayani03@gmail.com)
 
-- Passionate software engineer specializing in Machine Learning and AI systems
-- Enthusiast in Computer Vision, Deep Learning, and production ML systems
-- Love building intelligent systems that solve real-world problems
+- Passionate software engineer specializing in Distributed & Scalable Systems, Machine Learning and AI systems.
+- Enthusiast in Computer Vision, Deep Learning, and production grade ML systems.
+- Love building intelligent systems that solve real-world problems.
 
 ---
 
@@ -15,18 +14,10 @@
 
 <table>
 <tr>
+
 <td width="50%">
 
-**Total Stars Earned:** 50+  
-**Total Commits (last year):** 200+  
-**Total Repositories:** 15+  
-**Featured Projects:** 6  
-**Contributions (last year):** 500+  
-
-</td>
-<td width="50%">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=junaidSayani1&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=junaidSayani1&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true)
 
 </td>
 </tr>
@@ -55,6 +46,12 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## Organization & Open Source
+
+Active contributor to open source and organizational projects including work on distributed systems, ML infrastructure, and production-grade systems.
 
 ---
 
