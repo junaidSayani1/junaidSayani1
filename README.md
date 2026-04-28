@@ -60,6 +60,10 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=junaidSayani1&layout=compact&theme=dark&hide_border=true&count_private=true)
 
+<p align="center">
+    <img align="left" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=junaidSayani1&theme=dark" alt="junaidSayani1" />
+</p>
+
 </td>
 </tr>
 </table>
