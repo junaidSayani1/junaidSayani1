@@ -57,11 +57,6 @@
 <tr>
 <td width="50%">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=junaidSayani1&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true)
-
-</td>
-<td width="50%">
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=junaidSayani1&layout=compact&theme=dark&hide_border=true&count_private=true)
 
 </td>
@@ -74,11 +69,16 @@
 
 <div align="center">
 
-|  |  |  |
-|---|---|---|
-| **5,459+** | ![Avatar](https://github.com/junaidSayani1.png?size=50) | **29** |
-| **Total Contributions** | **Current Streak** | **Longest Streak** |
-| Nov 1, 2021 - Present | Apr 28 | Jul 19 - Aug 16, 2022 |
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=junaidSayani1&theme=darkhub&row=1" alt="junaidSayani1"/>
+  </a>
+</p>
+</div>
+
+<h3 align="center"> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 18px> Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 18px> </h3>
+
 
 </div>
 
