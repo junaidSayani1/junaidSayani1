@@ -8,27 +8,13 @@
 - Enthusiast in Computer Vision, Deep Learning, and production grade ML systems.
 - Love building intelligent systems that solve real-world problems.
 
----
-
-### Junaid's GitHub Stats
-
-<table>
-<tr>
-
-<td width="50%">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=junaidSayani1&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true)
-
-</td>
-</tr>
-</table>
-
----
-
 ## Languages and Tools
 
 **Languages:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
@@ -39,13 +25,80 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
 **Frameworks & Tools:**  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**Databases & Data:**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+
+**Cloud & Infrastructure:**  
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=black)
+![Amazon EKS](https://img.shields.io/badge/Amazon%20EKS-FF9900?style=flat-square&logo=amazonaws&logoColor=black)
+![Amazon SQS](https://img.shields.io/badge/Amazon%20SQS-FF9900?style=flat-square&logo=amazonaws&logoColor=black)
+![Grafana](https://img.shields.io/badge/Grafana-F2CC0C?style=flat-square&logo=grafana&logoColor=black)
+
+---
+
+## GitHub Stats
+
+<table>
+<tr>
+<td width="50%">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=junaidSayani1&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true)
+
+</td>
+<td width="50%">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=junaidSayani1&layout=compact&theme=dark&hide_border=true&count_private=true)
+
+</td>
+</tr>
+</table>
+
+---
+
+## Contribution Stats
+
+<div align="center">
+
+|  |  |  |
+|---|---|---|
+| **5,459+** | ![Avatar](https://github.com/junaidSayani1.png?size=50) | **29** |
+| **Total Contributions** | **Current Streak** | **Longest Streak** |
+| Nov 1, 2021 - Present | Apr 28 | Jul 19 - Aug 16, 2022 |
+
+</div>
+
+---
+
+## Achievements & Badges
+
+<div align="center">
+
+[![MultiLanguage](https://img.shields.io/badge/MultiLanguage-FF1493?style=for-the-badge&logo=github)](https://github.com/junaidSayani1)
+[![Organizations](https://img.shields.io/badge/Organizations-9966CC?style=for-the-badge&logo=github)](https://github.com/junaidSayani1)
+[![Repositories](https://img.shields.io/badge/Repositories-FFA500?style=for-the-badge&logo=github)](https://github.com/junaidSayani1)
+[![Stars](https://img.shields.io/badge/Stars-FFD700?style=for-the-badge&logo=github)](https://github.com/junaidSayani1)
+
+[![Commits](https://img.shields.io/badge/Commits-00AA00?style=for-the-badge&logo=github)](https://github.com/junaidSayani1)
+[![PullRequest](https://img.shields.io/badge/PullRequest-0099FF?style=for-the-badge&logo=github)](https://github.com/junaidSayani1)
+[![Followers](https://img.shields.io/badge/Followers-00CCCC?style=for-the-badge&logo=github)](https://github.com/junaidSayani1)
+[![Experience](https://img.shields.io/badge/Experience-FF6B6B?style=for-the-badge&logo=github)](https://github.com/junaidSayani1)
+
+</div>
 
 ---
 
@@ -64,12 +117,6 @@ Active contributor to open source and organizational projects including work on 
 | [Smart Tax Assistant](https://github.com/junaidSayani1/SmartTaxAssistant) | Intelligent NLP-based system for tax calculation and guidance |
 | [Bayesian Win Predictor](https://github.com/junaidSayani1/WinPredictor_BayesianModelling) | Probabilistic modeling system for outcome prediction |
 | [Huffman Compression](https://github.com/junaidSayani1/Huffman-Encoding---File-Compression-Algorithm) | Efficient file compression using greedy algorithms |
-
----
-
-## Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=junaidSayani1&layout=compact&theme=dark&hide_border=true&count_private=true)
 
 ---
 
