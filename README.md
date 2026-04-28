@@ -56,8 +56,7 @@ Building intelligent systems and robust software solutions. Passionate about mac
 ### Get in Touch
 
 - **Email:** [junaidsayani03@gmail.com](mailto:junaidsayani03@gmail.com)
-- **LinkedIn:** [linkedin.com/in/junaid-sayani](https://linkedin.com/in/junaid-sayani) *(update with your actual profile)*
-- **Portfolio:** *(add your portfolio link if you have one)*
+- **LinkedIn:** [linkedin.com/in/junaid-sayani](https://linkedin.com/in/junaid-sayani)
 
 ---
 
