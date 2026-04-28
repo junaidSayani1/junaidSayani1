@@ -1,68 +1,91 @@
-## 👋 Hi, I'm Junaid Sayani
+## Hi 👋, I am Junaid Sayani
 
-**Software & AI/ML Engineer** | Python • C++ • Full-Stack Development | ML • Computer Vision • Algorithms
+[![Resume](https://img.shields.io/badge/Resume-black?style=flat-square)](https://drive.google.com/your-resume-link)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/junaidSayani1)
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=flat-square)](https://your-portfolio-link.com)
+[![Email](https://img.shields.io/badge/Email-black?style=flat-square&logo=gmail)](mailto:junaidsayani03@gmail.com)
 
-Building intelligent systems and robust software solutions. Passionate about machine learning applications, system design, and solving complex problems at scale.
-
----
-
-### What I Do
-
-- **Machine Learning & AI**: Deep learning, computer vision, Bayesian modeling, and predictive analytics
-- **Software Engineering**: Full-stack development, algorithm optimization, and clean architecture
-- **Research & Innovation**: Exploring novel approaches in deception detection, image understanding, and intelligent systems
+- Passionate software engineer specializing in Machine Learning and AI systems
+- Enthusiast in Computer Vision, Deep Learning, and production ML systems
+- Love building intelligent systems that solve real-world problems
 
 ---
 
-### Tech Stack
+### Junaid's GitHub Stats
 
-**Languages:** Python, C++, C, JavaScript, PHP, C#  
-**ML/AI:** TensorFlow, PyTorch, Scikit-learn, OpenCV, Deep Learning  
-**Frameworks:** FastAPI, React, Flask  
-**Tools:** Git, Docker, Jupyter, Cloud platforms  
+<table>
+<tr>
+<td width="50%">
 
----
+**Total Stars Earned:** 50+  
+**Total Commits (last year):** 200+  
+**Total Repositories:** 15+  
+**Featured Projects:** 6  
+**Contributions (last year):** 500+  
 
-### Featured Projects
+</td>
+<td width="50%">
 
-| Project | Tech | Highlights |
-|---------|------|-----------|
-| [Deception Detection Through Micro-Facial Expressions](https://github.com/junaidSayani1/Deception-Detection-Through-Micro-Facial-Expressions) | Python, Computer Vision, Deep Learning | Detecting deception patterns using advanced facial analysis |
-| [Image Captioning with Deep Learning](https://github.com/junaidSayani1/ImageCaptioning-DeepLearning) | Python, Jupyter, Neural Networks | Bridging vision and language with sequence-to-sequence models |
-| [Smart Tax Assistant](https://github.com/junaidSayani1/SmartTaxAssistant) | Python, NLP, Backend | Intelligent system for tax calculation and guidance |
-| [Bayesian Modeling for Win Prediction](https://github.com/junaidSayani1/WinPredictor_BayesianModelling) | C#, Probabilistic Modeling | Data-driven predictions using Bayesian inference |
-| [Huffman Encoding File Compression](https://github.com/junaidSayani1/Huffman-Encoding---File-Compression-Algorithm) | C++, Algorithms | Efficient file compression using greedy algorithms |
-| [Pizza Ordering Web App](https://github.com/junaidSayani1/Pizza-Ordering-WebApp) | PHP, Full-Stack | End-to-end web application with database integration |
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=junaidSayani1&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
----
-
-### GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=junaidSayani1&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=junaidSayani1&layout=compact&theme=dark&hide_border=true)
+</td>
+</tr>
+</table>
 
 ---
 
-### What I'm Interested In
+## Languages and Tools
 
-- Real-world ML applications and production ML systems
-- Computer vision and facial recognition
-- System design and scalable architecture
-- Open-source contributions
-- Teaching & knowledge sharing
+**Languages:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+
+**Machine Learning & Data Science:**  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+**Frameworks & Tools:**  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-### Get in Touch
+## Featured Projects
 
-- **Email:** [junaidsayani03@gmail.com](mailto:junaidsayani03@gmail.com)
-- **LinkedIn:** [linkedin.com/in/junaid-sayani](https://linkedin.com/in/junaid-sayani)
+| Project | Description |
+|---------|-------------|
+| [Deception Detection](https://github.com/junaidSayani1/Deception-Detection-Through-Micro-Facial-Expressions) | Computer vision system detecting deception through micro-facial expression analysis |
+| [Image Captioning](https://github.com/junaidSayani1/ImageCaptioning-DeepLearning) | Deep learning model generating natural language captions from images |
+| [Smart Tax Assistant](https://github.com/junaidSayani1/SmartTaxAssistant) | Intelligent NLP-based system for tax calculation and guidance |
+| [Bayesian Win Predictor](https://github.com/junaidSayani1/WinPredictor_BayesianModelling) | Probabilistic modeling system for outcome prediction |
+| [Huffman Compression](https://github.com/junaidSayani1/Huffman-Encoding---File-Compression-Algorithm) | Efficient file compression using greedy algorithms |
 
 ---
 
-### Let's Connect
+## Top Languages
 
-I'm always open to discussing interesting problems, collaborating on projects, or exploring new opportunities in Software Engineering (Distributed & Scalable Systems) and AI/ML engineering.
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=junaidSayani1&layout=compact&theme=dark&hide_border=true&count_private=true)
+
+---
+
+## Lets connect around the web
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/junaid-sayani)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/junaidSayani1)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:junaidsayani03@gmail.com)
+
+</div>
+
 ---
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=junaidSayani1)
